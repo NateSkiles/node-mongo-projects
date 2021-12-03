@@ -1,6 +1,4 @@
 ## MongoDB Notes
-<br>
-
 ### Create a Database
 #### Creating a Database
 To create a database in MongoDB, you _first_ create a **MongoClient** object.
