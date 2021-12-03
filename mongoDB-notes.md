@@ -67,7 +67,7 @@ _Note:_ In MongoDB, a collection is not created until it gets content.
         insertedIds: [ 58fdbf5c0ef8a50b4cdd9a84 ]
     }
     ```
-* If you _do_ not specify an ```_id``` field then one will be added for you and a _unique_ id will be assigned to each document.
+* If you _do not_ specify an ```_id``` field then one will be added for you and a _unique_ id will be assigned to each document.
     * _Note:_ if you do specify an ```_id``` it **must** be _unique_.
 
 # [Left off here](https://www.w3schools.com/nodejs/nodejs_mongodb_find.asp)
